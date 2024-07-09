@@ -3,4 +3,4 @@
 
 
 
-![Alt Text](image/1.png)
+![Alt Text](images/1.png)
